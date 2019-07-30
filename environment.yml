@@ -22,3 +22,4 @@ dependencies:
   - mock
   - awscli
   - git+https://github.com/rmk135/sphinxcontrib-disqus
+  - ./mx-theme
